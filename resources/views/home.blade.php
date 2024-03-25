@@ -134,7 +134,7 @@
                 <a href="#" class="dropdown-item">Profile</a>
                 <div class="dropdown-divider"></div>
                 <a href="#" class="dropdown-item">Settings</a>
-                <a href="{{route('sign-in')}}" class="dropdown-item">Logout</a>
+                <a href="{{route('sign-in')}}" class="dropdown-item">Sign out</a>
               </div>
             </div>
           </div>
